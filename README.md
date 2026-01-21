@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/0kkQhtT/chatunityxalya.jpg" alt="ChatUnity-Bot Logo" style="width: 100%; height: auto; max-width: 400px;">
 </p>
 
-<h1 align="center">© ChatUnity-Bot 3.0🤖</h1>
+<h1 align="center">© napoli-Bot 3.0🤖</h1>
 <p align="center">
   <strong>Un bot avanzato per WhatsApp, ricco di funzionalità e divertimento!</strong>
 </p>
@@ -16,7 +16,7 @@
 ---
 
 ## 📌 **Introduzione**
-© ChatUnity-Bot è un bot multifunzionale per WhatsApp, progettato per semplificare la gestione delle chat e offrire funzionalità avanzate. Con un'interfaccia intuitiva e una configurazione semplice, è perfetto per chiunque voglia migliorare l'esperienza su WhatsApp.
+© napoli-Bot è un bot multifunzionale per WhatsApp, progettato per semplificare la gestione delle chat e offrire funzionalità avanzate. Con un'interfaccia intuitiva e una configurazione semplice, è perfetto per chiunque voglia migliorare l'esperienza su WhatsApp.
 
 ---
 
